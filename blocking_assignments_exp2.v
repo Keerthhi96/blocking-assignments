@@ -1,4 +1,4 @@
-module blocking_assignments();
+module non_blocking_assignments();
 	reg a,b,c,d;
 	initial
 		begin
